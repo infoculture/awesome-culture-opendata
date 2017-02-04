@@ -5,9 +5,9 @@ Cultural open data around the world
 
 
 * [Datasets](#datasets)
-* [Wikipedia](#wikiepdia)
-* [Russian datasets](#russiandatasets)
-* [Example projects](#exampleprojects)
+* [Wikipedia](#wikipedia)
+* [Russian datasets](#russian datasets)
+* [Example projects](#example projects)
 
 ## Datasets
 * [Datahub: OpenGLAM datasets](https://datahub.io/organization/open-glam)
